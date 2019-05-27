@@ -1,7 +1,8 @@
 # forgot.password
 1C-Bitrix component forgot.password
 
-#Код вызова компонента
+# Код вызова компонента:
+
 $APPLICATION->IncludeComponent(
     "flxmd:forgot.password",
     "forgot_modal",
